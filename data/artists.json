@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BRMX",
+    "image": "https://boosoyamusic.com/wp-content/uploads/2023/09/BRMX-prof-scaled.jpeg",
+    "youtubeLink": "https://youtube.com/chaîne_artiste",
+    "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/artist/4vmi3VMYVJqNZOLrNmUjuj?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "bio": "Artiste, Auteurs-compositeurs"
+  },
+  {
+    "name": "Autre artiste",
+    "image": "url_de_l_image.jpg",
+    "youtubeLink": "https://youtube.com/chaîne_autre_artiste",
+    "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/artist/4vmi3VMYVJqNZOLrNmUjuj?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "bio": "Biographie de l'autre artiste..."
+  }
+]
